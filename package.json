@@ -12,7 +12,8 @@
     "is-type-of": "^1.2.0",
     "p-all": "^1.0.0",
     "urllib": "^2.29.0",
-    "utility": "^1.14.0"
+    "utility": "^1.14.0",
+    "wechat-cryptor": "0.0.3"
   },
   "devDependencies": {
     "autod": "^3.0.1",
