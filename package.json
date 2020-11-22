@@ -1,6 +1,6 @@
 {
   "name": "@leeqiang/node-dingtalk",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "dingtalk node sdk",
   "main": "lib/dingtalk.js",
   "files": [
